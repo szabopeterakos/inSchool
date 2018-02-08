@@ -1,0 +1,3 @@
+Plugin [JedIDE] Plugin for handy Force.com development with JetBrains IDEs was not installed: Cannot download 'https://plugins.jetbrains.com/pluginManager/?action=download&id=com.jedide.apex&build=IC-172.4155.36&uuid=82ba8b7e-43e9-4cde-aa10-6168701bc6b7': Connection reset
+, response: 200 OK
+

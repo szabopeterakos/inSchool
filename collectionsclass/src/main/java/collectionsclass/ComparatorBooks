@@ -1,0 +1,11 @@
+package collectionsclass;
+
+import java.util.Comparator;
+
+class ComparatorBooks implements Comparator<Book> {
+
+    @Override
+    public int compare(Book o1, Book o2) {
+        return o1.getId()-o2.getId();
+    }
+}

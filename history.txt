@@ -1,0 +1,28 @@
+git --version
+git clone http://gitlab.training360.com/vicziani/yellowroad-java-03.git
+git pull
+git  checkout -b szabop
+yellowroad-java-03
+cd yellowroad-java-03
+git  checkout -b szabop
+git push origin szabop
+introide
+cd introide
+cd src
+cd main
+cd java
+javac HelloWorld.java
+java HelloWorld fasz
+java HelloWorld jio
+java HelloWorld jio jh njh u mn
+java HelloWorld S ri
+java HelloWorld S ri lezbikus is
+cd..
+git status
+git add .
+git commit -m "kezdeti szarnycsapasok"
+git config --global user.email "szabopeterakos@icloud.com"
+git config --global user.name "szabop"
+git commit -m "kezdeti szarnycsapasok"
+git push origin szabop
+doskey /HISTORY > history.txt
